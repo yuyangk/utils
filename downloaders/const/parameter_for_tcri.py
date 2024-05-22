@@ -11,5 +11,5 @@ TCRI_PARAMETERS = {
     "lev_700_mb": "on",
     "lev_200_mb": "on",
     "lev_surface": "on",
-    "lev_entire_atmosphere_(considered_as_a_single_layer": "on",
+    "lev_entire_atmosphere_(considered_as_a_single_layer)": "on",
 }
